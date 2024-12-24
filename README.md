@@ -9,3 +9,6 @@
 | [![Repo Card_1](https://github-readme-stats.vercel.app/api/pin/?username=Maia-th&repo=BTec&theme=radical)](https://github.com/Maia-th/BTec) | [![Repo Card_2](https://github-readme-stats.vercel.app/api/pin/?username=Maia-th&repo=SigBTec&theme=radical)](https://github.com/Maia-th/SigBTec) |
 
 </div>
+
+## 
+> 🔒 Documentação Privada: [DocsBTec](https://github.com/Maia-th/DocsBTec).
