@@ -6,7 +6,7 @@
 
 | Frontend | Backend |
 |---------------|---------------|
-| [![Repo Card_1](https://github-readme-stats.vercel.app/api/pin/?username=Maia-th&repo=BTec&theme=radical)](https://github.com/Maia-th/BTec) | [![Repo Card_2](https://github-readme-stats.vercel.app/api/pin/?username=Maia-th&repo=SigBTec&theme=radical)](https://github.com/Maia-th/SigBTec) |
+|<a href="https://github.com/Maia-th/BTec"> ![front](https://github.com/user-attachments/assets/77420014-f27c-41c8-9513-cea11015b462)</a> |<a href="https://github.com/Maia-th/SigBTec">![back](https://github.com/user-attachments/assets/59ab88b4-12c0-44b7-b183-3dc12f71c17b)</a> |
 
 </div>
 
